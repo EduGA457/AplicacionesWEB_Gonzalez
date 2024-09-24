@@ -13,4 +13,3 @@ function checkAnswer() {
 
 /* Pregunta: ¿Cómo se puede manipular el DOM usando JavaScript para cambiar el contenido de un elemento? */
 document.getElementById("question").innerText = "What is the capital of France?";
-
